@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427587690233",
+    "project_id": "otocar-7070b",
+    "storage_bucket": "otocar-7070b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427587690233:android:b01cfc22478d4aabcfcc28",
+        "android_client_info": {
+          "package_name": "com.example.oto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427587690233-b171bkr5m5vcpuridqfh3qn8id0p8fha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-BCb6VweiQ2VnZnGj-FrcL38lHQlq-E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427587690233-b171bkr5m5vcpuridqfh3qn8id0p8fha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
